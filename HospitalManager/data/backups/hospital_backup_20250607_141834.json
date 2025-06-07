@@ -1,0 +1,14 @@
+{
+  "patients": [],
+  "appointments": [],
+  "opd_visits": [],
+  "settings": {
+    "hospital_name": "City Hospital",
+    "announcement_enabled": true,
+    "announcement_interval": 30,
+    "last_backup": "",
+    "auto_backup_enabled": true
+  },
+  "backup_created": "2025-06-07 14:18:34",
+  "version": "1.0"
+}

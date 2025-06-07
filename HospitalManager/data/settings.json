@@ -1,0 +1,7 @@
+{
+  "hospital_name": "City Hospital",
+  "announcement_enabled": true,
+  "announcement_interval": 30,
+  "last_backup": "2025-06-07 14:18:34",
+  "auto_backup_enabled": true
+}

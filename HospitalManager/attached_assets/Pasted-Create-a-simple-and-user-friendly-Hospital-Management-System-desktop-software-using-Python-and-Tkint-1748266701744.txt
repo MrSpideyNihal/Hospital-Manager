@@ -1,0 +1,76 @@
+Create a simple and user-friendly Hospital Management System desktop software using Python and Tkinter. The software should work fully offline and store all data locally in files (such as JSON, CSV, or pickle – no external database). It should have a clean UI so that anyone (non-technical hospital staff) can easily use it.
+
+Include the following 4 core modules with appropriate UI forms and functionality:
+
+✅ 1. Patient Management
+
+Register new patients with: Name, Age, Gender, Contact, Address, and Phone number
+
+Assign each patient a unique Patient ID automatically
+
+Allow editing and updating patient information
+
+Allow searching patients by anything like gender or name aga or phone number any thing using filters
+
+View patient history (appointments, diagnosis, prescriptions)
+
+✅ 2. Appointment Scheduling
+
+Book appointments for patients with available doctors
+
+Show available time slots for each doctor
+
+Reschedule or cancel appointments
+
+View upcoming appointments in a calendar-like or list format
+
+Filters by doctor or department
+
+✅ 3. Outpatient (OPD) Management
+
+Quick OPD check-in for existing patients
+
+Capture symptoms, diagnosis, and prescription
+
+Optionally assign lab tests or medicines (extension)
+
+Track follow-ups if needed
+
+Show visit summary
+
+✅ 4. Reporting Module
+
+Generate reports:
+
+Daily, weekly, and monthly patient visits
+
+Appointment summary
+
+Doctor-wise consultations
+
+Ability to filter reports by date range and doctor
+
+Export reports to PDF or CSV
+
+Optionally show simple graphs like bar/pie charts
+
+🛠️ Technical Requirements:
+
+Use Tkinter for GUI
+
+Use JSON, CSV, or Pickle for file-based local data storage
+
+Code should be clean and modular, split into separate files if needed (e.g., main.py, patient.py, utils.py, etc.)
+
+No external libraries required except for built-in modules (for portability)
+
+Provide a simple, attractive GUI that any receptionist or admin can operate
+
+💡 Bonus (Optional):
+
+PDF export for prescriptions and reports using ReportLab (if allowed)
+
+Local backup and restore option for patient data
+
+Make everything simple, reliable, and easy to understand for beginners. This is for a local small hospital that needs basic management software.
+
